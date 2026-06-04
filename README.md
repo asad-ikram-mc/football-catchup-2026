@@ -47,24 +47,6 @@ No frameworks. No build step. No dependencies. Just open `index.html` and everyt
 
 ---
 
-## 🚀 Run it
-
-**Option 1 — Just open it**
-```bash
-# Clone, then double-click index.html
-git clone https://github.com/asad-ikram-mc/football-catchup-2026.git
-cd football-catchup-2026
-open index.html   # macOS  (use 'start' on Windows, 'xdg-open' on Linux)
-```
-
-**Option 2 — Live on GitHub Pages**
-Already enabled? It's live here:
-👉 **https://asad-ikram-mc.github.io/football-catchup-2026/**
-
-To enable: **Settings → Pages → Source: `main` branch / root → Save.**
-
----
-
 ## 🛠️ Tech
 
 - Pure **HTML + CSS + vanilla JavaScript** (no React, no build tools)
